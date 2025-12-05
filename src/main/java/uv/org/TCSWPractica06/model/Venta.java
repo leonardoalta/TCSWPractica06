@@ -7,7 +7,7 @@ package uv.org.TCSWPractica06.model;
 
 /**
  * 
- * @author Sammy Guergachi <sguergachi at gmail.com>
+ * @author leo
  */
 
 import javax.persistence.*;

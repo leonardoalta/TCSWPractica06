@@ -21,7 +21,7 @@ import uv.org.TCSWPractica06.repository.VentaRepository;
 
 /**
  *
- * @author Sammy Guergachi <sguergachi at gmail.com>
+ * @author leo
  */
 
 @RestController

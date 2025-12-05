@@ -9,7 +9,7 @@ import uv.org.TCSWPractica06.model.DetalleVenta;
 
 /**
  *
- * @author Sammy Guergachi <sguergachi at gmail.com>
+ * @author leo
  */
 public interface DetalleVentaRepository extends JpaRepository<DetalleVenta, Long> {
     

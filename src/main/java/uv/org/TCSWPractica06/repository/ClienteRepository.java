@@ -9,7 +9,7 @@ import uv.org.TCSWPractica06.model.Cliente;
 
 /**
  *
- * @author Sammy Guergachi <sguergachi at gmail.com>
+ * @author leo
  */
 public interface ClienteRepository extends JpaRepository<Cliente, Long> {
     

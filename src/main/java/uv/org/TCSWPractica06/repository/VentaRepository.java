@@ -9,7 +9,7 @@ import uv.org.TCSWPractica06.model.Venta;
 
 /**
  *
- * @author Sammy Guergachi <sguergachi at gmail.com>
+ * @author leo
  */
 public interface VentaRepository extends JpaRepository<Venta, Long> {
     

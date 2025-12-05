@@ -9,7 +9,7 @@ import uv.org.TCSWPractica06.model.Producto;
 
 /**
  *
- * @author Sammy Guergachi <sguergachi at gmail.com>
+ * @author leo
  */
 public interface ProductoRepository extends JpaRepository<Producto, Long> {
     
